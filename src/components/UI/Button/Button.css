@@ -1,0 +1,20 @@
+.btn {
+  background-color: #4a026b;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 15px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.btn:hover {
+  background-color: #600a87;
+}
+
+.btn:active {
+  background: #520b73;
+}
+
